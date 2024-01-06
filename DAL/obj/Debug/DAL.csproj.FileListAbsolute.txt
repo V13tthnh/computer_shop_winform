@@ -1,0 +1,18 @@
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\bin\Debug\DAL.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\bin\Debug\DAL.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\bin\Debug\DTO.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\bin\Debug\DTO.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\bin\Debug\DAL.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\bin\Debug\DAL.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\bin\Debug\DTO.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\bin\Debug\DTO.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\DAL\obj\Debug\DAL.pdb

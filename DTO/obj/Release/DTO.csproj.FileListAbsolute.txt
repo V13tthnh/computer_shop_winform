@@ -1,0 +1,6 @@
+D:\Code\c#\QuanLyCuaHangMayTinh\DTO\bin\Release\DTO.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\DTO\bin\Release\DTO.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\DTO\obj\Release\DTO.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\DTO\obj\Release\DTO.pdb

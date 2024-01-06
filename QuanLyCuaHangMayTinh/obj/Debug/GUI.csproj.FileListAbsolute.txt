@@ -1,0 +1,61 @@
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe.config
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\Guna.UI.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.ChucNang.BaoCaoThongKe.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.ChucNang.frm_QuanLy.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.frm_DangNhap.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.CTHD.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyKhuyenMai.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyHoaDon.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyKhachHang.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyNhaCC.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyNhanVien.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.Properties.Resources.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.CopyComplete
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\BLL.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DTO.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DAL.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\BLL.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DTO.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DAL.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.ChucNang.BanHang.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLySanPham.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.UserControl1.resources
+D:\Code\c#\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.frm_Loader.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe.config
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.exe
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\QuanLyCuaHangMayTinh.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\BLL.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DTO.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DAL.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\BLL.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DTO.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\bin\Debug\DAL.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.ChucNang.BanHang.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.ChucNang.BaoCaoThongKe.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.frm_Loader.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.ChucNang.frm_QuanLy.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.frm_DangNhap.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.CTHD.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyKhuyenMai.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyHoaDon.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyKhachHang.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLySanPham.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyNhaCC.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.MainForm.QuanLyNhanVien.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.Properties.Resources.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.UserControl1.resources
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.CopyComplete
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.exe
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\QuanLyCuaHangMayTinh\obj\Debug\QuanLyCuaHangMayTinh.pdb

@@ -1,0 +1,22 @@
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\bin\Debug\BLL.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\bin\Debug\BLL.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\bin\Debug\DAL.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\bin\Debug\DTO.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\bin\Debug\DAL.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\bin\Debug\DTO.pdb
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.dll
+D:\Code\c#\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\bin\Debug\BLL.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\bin\Debug\BLL.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\bin\Debug\DAL.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\bin\Debug\DTO.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\bin\Debug\DAL.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\bin\Debug\DTO.pdb
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.dll
+D:\Code\c# WinForm\QuanLyCuaHangMayTinh\BLL\obj\Debug\BLL.pdb
